@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(218, 209, 209);
+}
+
+.alinharRotulos {
+  text-align: right;
+  font-size: 25px;
+}
+.alinhaBtns {
+  width: 30%;
+  background-color: black;
+  color: white;
+  border: 0px;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+.carrinho {
+  width: 300px;
+  float: right;
+}
+.carrinho p {
+  display: inline;
+}
+table {
+  clear: both;
+  background-color: rgb(180, 98, 102);
+  border-radius: 12px;
+  color: white;
+  padding: 10px;
+  width: 700px;
+  height: 300px;
+  margin: auto;
+}
+caption {
+  color: rgb(129, 8, 12);
+  font-weight: bold;
+  font-size: 38px;
+  padding: 2%;
+  text-transform: uppercase;
+}
+
+#qtidadeProduto {
+  width: 20%;
+  padding: 5px 13px;
+}
+
+.estoque {
+  width: 10%;
+  margin-left: 46.6%;
+}
